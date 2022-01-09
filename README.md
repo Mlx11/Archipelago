@@ -1,6 +1,8 @@
 # Archipelago
 
-A project made by Marc Bachelet and Michael Linder at EPFL Lausanne under Prof. Ronan Boulic
+A project made by Marc Bachelet and Michael Linder at EPFL Lausanne under Prof. Ronan Boulic. 
+
+This is a backup repository. The original repository is hosted by Marc: https://github.com/MBachelet
 
 ## Architecture
 The architecture of our program is showed in the diagram below
